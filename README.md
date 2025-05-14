@@ -1,9 +1,5 @@
 # GeekUp - Product Frontend Technical Assessment
 
-This project is built as part of the Product Frontend Technical Assessment. It replicates the structure and behavior of the reference site [https://gi-pf.vercel.app/](https://gi-pf.vercel.app/) using public APIs.
-
-## 🔗 Demo
-
 [GitHub Repository](https://github.com/alexnguyenhao/GeekUp)
 
 ## 🚀 Features
